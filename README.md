@@ -31,7 +31,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 />
 </p>                                                                                                                          
 </br>                                                                                                                                                                                      
-> Acesse o [Dashboard](assets/controle-financeiro.xlsx)   
+> Acesse o [Dashboard]()   
 
 ---  
 
@@ -54,7 +54,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 
 ## 📚 Materiais  
    
-- [Base de dados](assets/base-de-dados.xlsx)
+- [Base de dados]()
 - [Database para insights](assets/database.xlsx)
 
 <p align="center">
