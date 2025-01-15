@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=""
+    src="assets/boneco-financeiro-removebg-preview.png"
     width="300"
 />
 </p>
@@ -26,12 +26,12 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
          
 <p align="center">
 <img 
-    src=""
-    width="600"
+    src="outputs/dashboard.png"
+    width="800"
 />
 </p>                                                                                                                          
 </br>                                                                                                                                                                                      
-> Acesse o [Dashboard](...)   
+> Acesse o [Dashboard](assets/controle-financeiro.xlsx)   
 
 ---  
 
@@ -54,7 +54,8 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 
 ## 📚 Materiais  
    
-- [Base de dados]()
+- [Base de dados](assets/base-de-dados.xlsx)
+- [Database para insights](assets/database.xlsx)
 
 <p align="center">
 <img 
@@ -73,7 +74,7 @@ Utilize a base de dados fornecida pelo instrutor para criar as planilhas no apli
 
 <p align="center">
 <img 
-    src=""
+    src="outputs/insights1.pdf"
     width="800"
 />
 </p>   
@@ -82,7 +83,7 @@ Utilize a base de dados fornecida pelo instrutor para criar as planilhas no apli
 
 <p align="center">
 <img 
-    src=""
+    src="outputs/insights2.pdf"
     width="800"
 />
 </p>  
