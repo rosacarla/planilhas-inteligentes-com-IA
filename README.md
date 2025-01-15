@@ -1,2 +1,94 @@
-# planilhas-inteligentes-com-IA-
-Projeto para elaborar planilhas em Excel, gerar um dashboard e obter insights com IA
+<p align="center">
+<img 
+    src=""
+    width="300"
+/>
+</p>
+
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
+# Projeto Planilhas Inteligentes com IA
+
+> ℹ️ **NOTE:** Este é um repositório criado durante o curso "Como organizar sua vida Financeira com Planilhas Inteligentes e IA", promovido pela [DIO](https://dio.me) na programação de conteúdos do Bootcamp __CAIXA - IA Generativa com Microsoft Copilot__.
+
+Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamento financeiro e obter insigths a partir da base de dados com alguma ferramenta de IA.         
+         
+<p align="center">
+<img 
+    src=""
+    width="600"
+/>
+</p>                                                                                                                          
+</br>                                                                                                                                                                                      
+> Acesse o [Dashboard](...)   
+
+---  
+
+## 💻 Tecnologias utilizadas
+
+- [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel) 
+- [Buscador Google](https://www.google.com.br)
+- [Remove.bg](https://www.remove.bg/pt-br)
+- [Microsoft Copilot](https://copilot.microsoft.com/)  
+
+---  
+
+## ✨ Como foi feito?
+
+- Planilhas e dashboard elaborados com o Microsoft Excel
+- Recursos gráficos buscados no Google
+- Edição de imagem com Remove.bg  
+
+---  
+
+## 📚 Materiais  
+   
+- [Base de dados]()
+
+<p align="center">
+<img 
+    src=""
+    width="800"
+/>
+</p>  
+
+---  
+
+## 🛠️ Instruções de execução
+
+Utilize a base de dados fornecida pelo instrutor para criar as planilhas no aplicativo Excel. Depois de gerar o dashboard, as abas Dados, Controlador e Caixinha podem ser ocultadas.  
+
+- 🤖 1. Use o prompt de insigths no `Copilot` sobre gastos: "Utilize a tabela de dados acima como base de conhecimento e gere alguns insights dessa tabela de gastos."
+
+<p align="center">
+<img 
+    src=""
+    width="800"
+/>
+</p>   
+
+- 🤖 2. Use o prompts de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."
+
+<p align="center">
+<img 
+    src=""
+    width="800"
+/>
+</p>  
+
+---  
+
+## 👨‍💻 Expert
+
+[Carla Silveira](https://github.com/rosacarla)
