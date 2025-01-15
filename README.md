@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="assets/boneco-financeiro-removebg-preview.png"
-    width="300"
+    width="240"
 />
 </p>
 
@@ -54,7 +54,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 
 ## 📚 Materiais  
    
-- [Base de dados]()
+- [Base de dados](assets/base-de-dados.xlsx)
 - [Database para insights](assets/database.xlsx)
 
 <p align="center">
@@ -72,21 +72,11 @@ Utilize a base de dados fornecida pelo instrutor para criar as planilhas no apli
 
 - 🤖 1. Use o prompt de insigths no `Copilot` sobre gastos: "Utilize a tabela de dados acima como base de conhecimento e gere alguns insights dessa tabela de gastos."
 
-<p align="center">
-<img 
-    src="outputs/insights1.pdf"
-    width="800"
-/>
-</p>   
+Ver [insights 1](outputs/insights1.pdf)   
 
-- 🤖 2. Use o prompts de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."
+- 🤖 2. Use o prompt de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."
 
-<p align="center">
-<img 
-    src="outputs/insights2.pdf"
-    width="800"
-/>
-</p>  
+Ver [insights 2](outputs/insights2.pdf)     
 
 ---  
 
