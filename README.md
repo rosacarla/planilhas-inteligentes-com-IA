@@ -22,7 +22,7 @@
 
 > ℹ️ **NOTE:** Este é um repositório criado durante o curso "Como organizar sua vida Financeira com Planilhas Inteligentes e IA", promovido pela [DIO](https://dio.me) na programação de conteúdos do Bootcamp __CAIXA - IA Generativa com Microsoft Copilot__.
 
-Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamento financeiro e obter insigths a partir da base de dados com alguma ferramenta de IA.         
+Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamento financeiro e obter insights a partir da base de dados com alguma ferramenta de IA.         
          
 <p align="center">
 <img 
