@@ -81,7 +81,7 @@ Utilize a base de dados fornecida pelo instrutor para criar as planilhas no apli
 </p>                                                                                                                                                                                                                                     
 Ver [insights 1](outputs/insights1.pdf)                                                                                                                                                                                        
 
-- 🤖 2. Use o prompt de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."                                                                                     
+- 🤖 2. Use o prompt de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."                                                                                                                                                                               
           
 <p align="center">
 <img 
