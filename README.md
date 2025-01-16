@@ -72,12 +72,23 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 
 Utilize a base de dados fornecida pelo instrutor para criar as planilhas no aplicativo Excel. Depois de gerar o dashboard, as abas Dados, Controlador e Caixinha podem ser ocultadas.  
 
-- 🤖 1. Use o prompt de insigths no `Copilot` sobre gastos: "Utilize a tabela de dados acima como base de conhecimento e gere alguns insights dessa tabela de gastos."
-
+- 🤖 1. Use o prompt de insigths no `Copilot` sobre gastos: "Utilize a tabela de dados acima como base de conhecimento e gere alguns insights dessa tabela de gastos."                                                                 
+<p align="center">
+<img 
+    src="assets/saida-insigths1.png"
+    width="600"
+/>
+</p>                                                                                                                                                                                                                                     
 Ver [insights 1](outputs/insights1.pdf)   
 
 - 🤖 2. Use o prompt de insigths no `Copilot` para obter visão detalhada: "Gere uma nova planilha para visão detalhada dos dados da tabela original, incluindo totais de receita e despesa, distribuição de despesas por categoria e a contagem dos status das transações."
-
+          
+<p align="center">
+<img 
+    src="assets/saida-insigths2.png"
+    width="600"
+/>
+</p>                                                                                                                                                                                                                                    
 Ver [insights 2](outputs/insights2.pdf)     
 
 ---  
