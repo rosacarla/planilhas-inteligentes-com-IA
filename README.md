@@ -31,7 +31,9 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 />
 </p>                                                                                                                          
 </br>                                                                                                                                                                                                                                                                        
-📊 Acesse o [Dashboard](outputs/controle-financeiro.xlsx)   
+📊 Acesse o Dashboard                                                                                                                                                                                                          
+<a href="https://github.com/rosacarla/planilhas-inteligentes-com-IA/blob/main/outputs/controle-financeiro.xlsx">AQUI!</a>
+           
 
 ---  
 
