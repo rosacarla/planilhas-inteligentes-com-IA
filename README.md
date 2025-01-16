@@ -30,7 +30,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
     width="800"
 />
 </p>                                                                                                                          
-</br>                                                                                                                                                                                      
+</br>                                                                                                                                                                                                                                                                        
 > Acesse o [Dashboard](outputs/controle-financeiro.xlsx)   
 
 ---  
