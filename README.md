@@ -31,7 +31,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 />
 </p>                                                                                                                          
 </br>                                                                                                                                                                                      
-> Acesse o [Dashboard]()   
+> Acesse o [Dashboard](outputs/controle-financeiro.xlsx)   
 
 ---  
 
@@ -59,7 +59,7 @@ Projeto com o objetivo de criar planilhas em Excel, um dashboard de acompanhamen
 
 <p align="center">
 <img 
-    src=""
+    src="https://github.com/rosacarla/planilhas-inteligentes-com-IA/blob/main/assets/dados.png"
     width="800"
 />
 </p>  
